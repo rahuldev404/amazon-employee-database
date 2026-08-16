@@ -1,6 +1,5 @@
 # Amazon Employee Analytics — SQL Database Project
 
-![Amazon Employee Analytics](amazon-employee-banner.png)
 
 > **A SQL-based employee analytics project exploring workforce demographics, compensation, experience, skills, work modes, and performance.**
 
@@ -50,6 +49,6 @@ This project can answer questions such as:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Rahul Yadav 
 
 **Aspiring Data Analyst | SQL | Data Analytics**
