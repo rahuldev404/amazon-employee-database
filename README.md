@@ -42,7 +42,7 @@ This project can answer questions such as:
 
 ## 🚀 How to Run
 
-1. Open `amazon_employee.sql` in MySQL Workbench.
+1. Open `amazon.sql` in MySQL Workbench.
 2. Execute the SQL script.
 3. Run the queries to explore the employee data.
 4. Analyze the results to identify business insights.
